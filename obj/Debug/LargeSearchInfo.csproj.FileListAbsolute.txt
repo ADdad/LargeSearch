@@ -1,0 +1,6 @@
+c:\users\rostislav\documents\visual studio 2015\Projects\LargeSearchInfo\LargeSearchInfo\bin\Debug\LargeSearchInfo.exe.config
+C:\Users\Rostislav\Documents\Visual Studio 2015\Projects\LargeSearchInfo\LargeSearchInfo\bin\Debug\LargeSearchInfo.exe
+C:\Users\Rostislav\Documents\Visual Studio 2015\Projects\LargeSearchInfo\LargeSearchInfo\bin\Debug\LargeSearchInfo.pdb
+C:\Users\Rostislav\Documents\Visual Studio 2015\Projects\LargeSearchInfo\LargeSearchInfo\obj\Debug\LargeSearchInfo.exe
+C:\Users\Rostislav\Documents\Visual Studio 2015\Projects\LargeSearchInfo\LargeSearchInfo\obj\Debug\LargeSearchInfo.pdb
+C:\Users\Rostislav\Documents\Visual Studio 2015\Projects\LargeSearchInfo\LargeSearchInfo\obj\Debug\LargeSearchInfo.csprojResolveAssemblyReference.cache
