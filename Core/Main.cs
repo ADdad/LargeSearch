@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -17,15 +17,8 @@ namespace LargeSearchInfo.Core
         public void StartParse()
         {
             string[] library = FileSys.GetFilesLibrary();
-
-            for (int i = 0; i < library.Length; i++)
-            {
-                Console.WriteLine("Start parse {0} book", i);
-                ParseBook(library[i], i);
-                Console.WriteLine("Start merge {0} book", i);
-                StartMerge();
-            }
-                
+//dklsajdl
+          
         }
 
         public void StartMerge()
